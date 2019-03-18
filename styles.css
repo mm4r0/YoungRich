@@ -1,0 +1,60 @@
+.dab {
+    width: 40%;   
+}
+
+.potato {
+    display: flex;
+}
+
+.orange {
+    width: 60%; 
+    font-size: 120px;
+    font-family: 'Staatliches', cursive;
+}
+
+body {
+     background: pink;
+}
+
+.apple {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.apple {
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+    padding: 15px;
+    
+}
+
+.bambam {
+    display: flex;
+    justify-content: space-around;
+}
+
+.wolo {
+    width: 400px;   
+    height: 600px;
+}
+
+p {
+    margin: 10px;
+    padding: 15px;
+}
+
+.jaebeom {
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+    padding: 15px;
+    font-size: 100px;
+    font-family: 'Amatic SC', cursive;
+    
+}
+
+h1 {
+    font-family: 'Abril Fatface', cursive;
+   
+}
